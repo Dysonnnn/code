@@ -1,8 +1,3 @@
 # code
 代码存档
-
-python
-
-c
-
-c++
+共LYH使用
